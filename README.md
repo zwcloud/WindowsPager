@@ -2,7 +2,7 @@
 
 *This is a unofficial WindowsPager repository. The source code is taken from [sourceforge/windowspager](https://sourceforge.net/projects/windowspager/).*
 
-WindowsPager is a desktop-switcher/pager for Windows to manage 'virtual' workspaces/desktops by [Jochen Baier](email@jochen-baier.de).
+WindowsPager is a desktop-switcher/pager for Windows to manage 'virtual' workspaces/desktops by [Jochen Baier](mailto:email@jochen-baier.de).
 
 It will integrate smoothly into the desktop panel.
 
@@ -76,7 +76,7 @@ You can also change the keyboard shortcuts, trayicon support, etc in this file.
 
 **MoveAndSwitch:**
 
--a new feature is to move a window to an other desktop and switch to this desktop automatically. To do this you must press the Control key during the use of  the "Move to desktop x" menu.
+- a new feature is to move a window to an other desktop and switch to this desktop automatically. To do this you must press the Control key during the use of  the "Move to desktop x" menu.
 
 **Note:**
     

@@ -33,7 +33,7 @@ It will integrate smoothly into the desktop panel.
 
 ## Download
 
-[Free Download on sourceforge](http://sourceforge.net/projects/windowspager/)
+[See release](https://github.com/zwcloud/WindowsPager/releases).
 
 ## Installation
 Copy the folder 'windowspager' (or 'windowspager64bit')  to a place of your choice. Administrator rights are not necessary. 

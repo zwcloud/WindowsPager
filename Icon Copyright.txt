@@ -1,0 +1,7 @@
+The icons used in the window-selector are from:
+
+http://dryicons.com/
+License: http://dryicons.com/terms/free/
+
+thanks !
+
